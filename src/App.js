@@ -1,9 +1,9 @@
-
+import Login from "./login";
 
 function App() {
   return (
     <div>
-      MIGZ Chat
+      <Login />
     </div>
   );
 }
