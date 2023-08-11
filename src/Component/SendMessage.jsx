@@ -11,7 +11,7 @@ function SendMessage() {
     padding:"1rem",
     borderRadius:"1rem",
     right:0}}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat possimus molestias porro totam est voluptate sit, accusantium nostrum neque quae natus cum, dolor eaque officia, quo quis hic ea dolores.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat possimus molestias porro totam est voluptate sit, quae natus cum, dolor eaque officia, quo quis hic ea dolores.
     </Box>
     </Stack>
   )
